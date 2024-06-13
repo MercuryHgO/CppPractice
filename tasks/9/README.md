@@ -1,3 +1,3 @@
 # Вопрос 1
 
-[код](/tasks/8/src/main.cpp)
+[код](/tasks/9/src/main.cpp)
